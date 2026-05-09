@@ -19,23 +19,3 @@
 | Design & Analytics | ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6) ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white) ![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Google Play Console](https://img.shields.io/badge/Google%20Play%20Console-414141?style=for-the-badge&logo=googleplay&logoColor=white)                                                                                                                                    |
 | Hosting            | ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white) ![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=black) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)                                                                                                                                                                                                                                |
 | Security & Testing | ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-
----
-
-## 📊 My GitHub Stats
-
-<table>
-	<tr>
-		<td>
-			<img src="https://github-readme-stats.vercel.app/api?username=khushi-ux&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-		</td>
-		<td>
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-ux&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2">
-			<img src="https://nirzak-streak-stats.vercel.app/?user=khushi-ux&theme=dark&hide_border=false" />
-		</td>
-	</tr>
-</table>
