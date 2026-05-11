@@ -75,3 +75,18 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+<table>
+	<tr>
+		<td>
+			<img src="https://github-readme-stats.vercel.app/api?username=khushi-ux&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+		</td>
+		<td>
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-ux&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<img src="https://nirzak-streak-stats.vercel.app/?user=khushi-ux&theme=dark&hide_border=false" />
+		</td>
+	</tr>
+</table>
