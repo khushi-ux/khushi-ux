@@ -3,18 +3,33 @@
 </div>
 
 ###
-
 <div align="center">
-  <img src="linkedin.com/in/khushi-b-952b692a2
-    message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin Logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord Logo"  />
-  <img src="https://img.shields.io/static/v1?
-    message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-   <img src="https://medium.com/@khushi_badesra
-     message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-  <img src="https://www.hackerrank.com/profile/khushibadesra15
-    message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+
+  <a href="https://linkedin.com/in/khushi-b-952b692a2" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo" />
+  </a>
+
+  <a href="mailto:khushibadesra15@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25
+      alt="gmail logo" />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/khushibadesra15" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="25" alt="hackerrank logo" />
+  </a>
+
+  <a href="https://medium.com/@khushi_badesra" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="25" alt="medium logo" />
+  </a>
+
+  <a href="https://bsky.app/profile/khushibadesra.bsky.social" target="_blank">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" height="25" alt="bluesky logo" />
+  </a>
+  
+   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord Logo"  />
+
 </div>
+
 
 ###
 
