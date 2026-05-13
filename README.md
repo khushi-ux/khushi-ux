@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" height="25" alt="bluesky logo" />
   </a>
 
- <a href="https://discord..gg/7TYGjEKB" target="_blank">
+ <a href="https://discord.gg/7TYGjEKB" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25" alt="discord logo" />
 </a>
 </div>
