@@ -25,9 +25,10 @@
   <a href="https://bsky.app/profile/khushibadesra.bsky.social" target="_blank">
     <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" height="25" alt="bluesky logo" />
   </a>
-  
-   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord Logo"  />
 
+ <a href="https://discord..gg/7TYGjEKB" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25" alt="discord logo" />
+</a>
 </div>
 
 
